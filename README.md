@@ -1,7 +1,7 @@
 ### Olá me chamo Guilherme 👋
 
-- 🔭 Hoje trabalho Suporte tecnico
-- 🌱 Estudando Javascript 
+- 🔭 Hoje trabalho como Suporte tecnico com foco em criação de relatorios dinamicos usando mysql
+- 🌱 Estou estudando Javascript 
 
 <div>
   <a href="https://beacons.ai/Roveri-21">
