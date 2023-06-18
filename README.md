@@ -1,7 +1,8 @@
 ### Olá me chamo Guilherme 👋
 
-- 🔭 Hoje trabalho como Suporte tecnico com foco em criação de relatorios dinamicos usando mysql
-- 🌱 Estou estudando Javascript 
+- 🔭 Hoje trabalho como Suporte tecnico com foco em criação de relatorios dinamicos usando mysql na ferramenta pdfKit
+- 🌱 Atualmente Estou estudando Javascript.
+- 🎮 Como passatempo gosto de pegar jogos indies e fazer a traduzir.
 
 <div>
   <a href="https://beacons.ai/Roveri-21">
