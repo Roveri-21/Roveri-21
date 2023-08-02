@@ -11,7 +11,6 @@
       box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
       margin-bottom: 20px;">
     <p>- 🔭 Hoje trabalho como Suporte técnico com foco em criação de relatórios dinâmicos usando MySQL na ferramenta pdfKit, além de criação de automações para o CRM.🩺</p>
-    https://github.com/Roveri-21/Roveri-21/issues/2#issue-1832160177
     <p>- 🌱 Atualmente criando chatbots para WhatsApp bot na linguagem JavaScript.</p>
     <p>- 🎮 Como passatempo gosto de fazer traduções para jogos indies.</p>
   </div>
