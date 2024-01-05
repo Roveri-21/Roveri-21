@@ -5,7 +5,7 @@
           <ul style="color: #555555; margin-bottom: 15px;"> 
             <li style="color: #555555; margin-bottom: 15px;">Olá! Meu nome é Guilherme Roveri Silva e sou Analista de Desenvolvimento de Sistemas.</p>
             <li style="color: #555555;">Moro em Aparecida de Goiânia, Goiás, Brasil, e sou apaixonado por tecnologia e programação, principalmente em JavaScript e React.</p>
-            <li style="color: #555555;">Hoje trabalho como Suporte técnico com foco em criação de relatórios dinâmicos usando MySQL na ferramenta pdfKit, além de criação de automações para o CRM.🩺</p>
+            <li style="color: #555555;">Hoje trabalho como Analista de Desenvolvimento de Sistemas com foco em criação de relatórios dinâmicos usando MySQL na ferramenta pdfKit, além de criação de automações para o CRM.🩺</p>
           </ul>
         </div>
         <div class="section resume" style="margin-top: 20px;">
